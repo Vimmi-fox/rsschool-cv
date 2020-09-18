@@ -1,6 +1,6 @@
 # Victoria Misiuk
 
-Student Rolling Scopes School
+Student Rolling Scopes School;
 
 ## Contact
 

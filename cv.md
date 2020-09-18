@@ -14,7 +14,9 @@ I want to work in IT-industry and develop in this area.
 
 ## Skills
 
-HTML and CSS, JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ## Code examples
 
